@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
     >
       <div className="container flex justify-between items-center">
         <a href="#home" className="flex items-center">
-          <span className="text-primary font-display font-bold text-2xl">HackerEarth x Agent.ai</span>
+          <span className="text-primary font-blue-950 font-display font-bold text-2xl">HackerEarth</span> <span className="text-primary font-white font-display font-bold text-2xl">x </span><span className="text-primary font-display font-bold text-2xl">Agent.ai</span>
         </a>
 
         {/* Desktop Navigation */}
